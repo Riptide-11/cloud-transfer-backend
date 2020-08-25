@@ -8,7 +8,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>savetogoogledrive</name>
+	<name>Riptide</name>
 	<description>A Restful API and web application to upload file directly to google drive from URL.</description>
 
 	<parent>
