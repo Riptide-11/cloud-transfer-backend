@@ -1,7 +1,7 @@
 <%-- 
     Document   : templete
     Created on : 15 Jun, 2017, 6:48:42 AM
-    Author     : Dhaval
+    Author     : Riptide
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -112,7 +112,7 @@
                 <div class="container-fluid">
                     <div class="row ">
                         <div class="col-sm-12 text-center">
-                            <p>Design by Dhaval Mehta and Aditya Krishnakumar</p>
+                            <p>Design by Riptide</p>
                             <!-- Please do not remove the backlink to us unless you support further theme's development at https://bootstrapious.com/donate. It is part of the license conditions. Thank you for understanding :)-->
                         </div>
                     </div>
