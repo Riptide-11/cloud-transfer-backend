@@ -26,7 +26,7 @@
                       <div class="col-lg-12">
                           <div class="card">
                               <div class="card-header d-flex align-items-center">
-                                  <h3 class="h4">Enter File Information</h3>
+                                  <h3 class="h4">Enter File Direct Download link...Torrent not allowed :)</h3>
                               </div>
                               <div class="card-body">
                                   <form method="post" id="uploadform" action="${pageContext.request.contextPath}/api/drive/upload">
