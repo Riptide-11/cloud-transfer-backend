@@ -6,7 +6,7 @@ frm.submit(function (e) {
     var filename = $("#filename").val();
     var dataString = 'url=' + encodeURIComponent(url) + '&filename=' + encodeURIComponent(filename);
     if (url == '') {
-        alert("Please Enter Url");
+        alert("Are you mad....enter Url");
     }
     else {
         $.ajax({
